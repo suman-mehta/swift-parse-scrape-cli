@@ -1,0 +1,14 @@
+{
+  "name": "swift-parse-scrape-cli",
+  "version": "1.0.0",
+  "description": "Lightning‑fast, zero‑dependency data parsing, serialization & web scraping utility",
+  "type": "module",
+  "bin": {
+    "swift-parse-scrape": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
